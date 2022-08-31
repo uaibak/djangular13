@@ -1,0 +1,6 @@
+Lib/*
+firstAngular13/.vscode/*
+crudAngular13/db.sqlite3
+firstAngular13/node_modules/*
+firstAngular13/.angular/*
+firstAngular13/README.md
